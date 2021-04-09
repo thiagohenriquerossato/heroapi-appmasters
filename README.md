@@ -36,7 +36,7 @@ Esse é um simples sistema que faz busca de heróis por qualquer atributo que es
 
 ## :interrobang: Motivo
 
-Projeto desenvolvido para uma seleção da empresa App Masters.
+Projeto desenvolvido para uma seleção da empresa <a href="https://appmasters.io/en/">App Masters</a>.
 
 ## :seedling: Requisitos Mínimos
 
